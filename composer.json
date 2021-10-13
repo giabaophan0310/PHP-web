@@ -1,0 +1,12 @@
+{
+    "name": "php-web/phpform",
+    "description": "Kyanon test",
+    "authors": [
+    {
+        "name": "Nguyen Phan Gia Bao",
+        "email": "giabaonguyen1900@gmail.com"
+    }],
+    "require": {
+        "monolog/monolog": "1.12.0"
+    }
+}
